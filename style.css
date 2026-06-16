@@ -208,3 +208,11 @@ a {
    font-weight: 500;
    font-style: normal;
 }
+
+a img {
+   border-color: #7e5860;
+}
+
+a img:hover {
+   border-color: #cc0044;
+}
